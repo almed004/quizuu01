@@ -1,0 +1,22 @@
+{
+  "name": "quizuu01",
+  "version": "1.0.0",
+  "description": "assessment tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almed004/quizuu01.git"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "almed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almed004/quizuu01/issues"
+  },
+  "homepage": "https://github.com/almed004/quizuu01#readme"
+}
